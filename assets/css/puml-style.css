@@ -708,6 +708,7 @@ select:focus { outline: none; border: none; }
 .site-header { position: relative; }
 .site-header .banner { background-image: linear-gradient(45deg, #081F2C, #081f2c94 ), url(../images/gym-rewards-training.jpg);  background-repeat: no-repeat; background-size: 100% !important; }
 .site-header .banner1 { background-image: linear-gradient(45deg, #081F2C, #081f2c94 ), url(../images/gym-fitness-studio.jpg);  background-repeat: no-repeat; background-size: 100% !important; color: #ffffff; }
+.site-header .banner2 { background-image: linear-gradient(45deg, #081F2C, #081f2c94 ), url(../images/puml-corporate-wellness.jpg);  background-repeat: no-repeat; background-size: 100% !important; color: #ffffff; }
 
 
 
@@ -2653,6 +2654,7 @@ label.error { display: none !important; font-size: 13px; margin-top: 5px; color:
 .theme-puml .section-bg-puml p { color: #ffffff; }
 .theme-puml .section-bg p, .theme-puml .section-bg-alt p { color: #353c65; }
 .theme-puml .section-problem { background-image: linear-gradient( rgba(43, 220, 176, 0.8), rgba(43, 220, 176, 0.5) ), url(../images/slide3.jpg); height: 500px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; }
+.theme-puml .section-corporate { background-image: linear-gradient( rgba(43, 220, 176, 0.8), rgba(43, 220, 176, 0.5) ), url(../images/corporate-fitness-training.jpg); height: 500px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; }
 
 
 .theme-puml .overflow, .theme-puml .section-bg { background: #fff; }
